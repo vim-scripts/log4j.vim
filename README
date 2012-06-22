@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4111
+
+Adds syntax highlighting for log4j and log4php log files. Initially created to solve log4php syntax highlighting.
+
+https://github.com/tetsuo13/Vim-log4j
